@@ -13,7 +13,7 @@ metadata:
   labels: 
     app: "inventory"
   annotations: 
-    msaez.io/x: "351"
+    msaez.io/x: "352"
     msaez.io/y: "196"
 spec: 
   ports: 
@@ -35,7 +35,7 @@ metadata:
   labels: 
     app: "inventory"
   annotations: 
-    msaez.io/x: "351"
+    msaez.io/x: "352"
     msaez.io/y: "196"
 spec: 
   ports: 

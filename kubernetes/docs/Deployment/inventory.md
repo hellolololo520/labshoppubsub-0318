@@ -13,7 +13,7 @@ metadata:
   labels: 
     app: "inventory"
   annotations: 
-    msaez.io/x: "355"
+    msaez.io/x: "356"
     msaez.io/y: "400"
 spec: 
   selector: 
@@ -61,7 +61,7 @@ metadata:
   labels: 
     app: "inventory"
   annotations: 
-    msaez.io/x: "355"
+    msaez.io/x: "356"
     msaez.io/y: "400"
 spec: 
   selector: 
